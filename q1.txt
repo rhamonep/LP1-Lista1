@@ -1,0 +1,7 @@
+Questão 01
+
+a) Uma classe é uma estrutura que abstrai um conjunto de objetos com características similares. Uma classe define o comportamento de seus objetos - através de métodos - e os estados possíveis destes objetos - através de atributos. Objetos, em POO, são  instâncias de uma classe, ou seja, um protótipo criado a partir de um modelo (classe).
+
+b) Construtores são funções de inicialização de uma classe, as quais são invocadas no momento em que objetos desta classe são criadas. Eles permitem inicializar campos internos da classe e alocar recursos que um objeto da classe possa demandar.
+
+c) Encapsulamento, em linguagens orientadas a objeto, é a capacidade de ocultação de detalhes de implementação por parte de entidades de manipulação de dados. Esta característica visa prover um meio de manter cada classe responsável por operações a elas atribuídas sem interferências externas. A vantagem dessa característica é de manter os indivíduos de cada classe com funções bem delimitadas e criar meios de criar módulos onde cada classe faça bem aquilo de que está encarregada, tendo total controle sobre tais operações.
